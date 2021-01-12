@@ -9,7 +9,7 @@
  // WiFi credentials.
 const char* WIFI_SSID = "*****";
 const char* WIFI_PASS = "*****";
-const char* device_id = "water1";
+const char* device_id = "device_UID";
 
 
 // MQTT credentials
