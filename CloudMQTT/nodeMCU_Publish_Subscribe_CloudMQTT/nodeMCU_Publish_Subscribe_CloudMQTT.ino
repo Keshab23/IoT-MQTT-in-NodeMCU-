@@ -7,8 +7,8 @@
  using namespace std;
 
  // WiFi credentials.
-const char* WIFI_SSID = "XNet";
-const char* WIFI_PASS = "arpanet123";
+const char* WIFI_SSID = "*****";
+const char* WIFI_PASS = "*****";
 const char* device_id = "water1";
 
 
